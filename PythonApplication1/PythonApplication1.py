@@ -14,3 +14,4 @@ while i < 1:
     pg.mouseDown(); pg.mouseUp()
     pg.press('y')
 
+    input('Press ENTER to exit')
